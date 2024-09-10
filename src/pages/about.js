@@ -45,6 +45,8 @@ const AboutPage = (props) => {
             Sustainability
           </ThemeLink>
           <a href='http://customerlabs.com/?utm_source=test'>customerlabs</a>
+          <a href='https://pantproject.com'>Pant Project</a>
+          <a href='https://pantproject.com?utm_source=new+subscribers&utm_medium=email&utm_campaign=black+friday+sale&utm_content=first+cta+button'>Pant Project 2</a>
         </div>
 
         <Container size={'large'} spacing={'min'}>
