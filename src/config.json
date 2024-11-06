@@ -137,6 +137,11 @@
       "menuLabel": "About",
       "menuLink": "/about",
       "category": null
+    },
+    {
+      "menuLabel": "Clabs",
+      "menuLink": "https://www.customerlabs.com",
+      "category": null
     }
   ],
   "filters": [
